@@ -22,7 +22,7 @@ A React-based **Digital Timer App** that allows users to set a timer, start/paus
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/digital-timer-app.git
+   git clone https://github.com/Darshanas17/Digital-Timer-App-React.git
    cd digital-timer-app
    ```
 2. Install dependencies:
